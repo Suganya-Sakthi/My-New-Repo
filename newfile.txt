@@ -1,1 +1,5 @@
 I have modified this file now
+
+I'm adding new content to my file now
+
+I like git commit
